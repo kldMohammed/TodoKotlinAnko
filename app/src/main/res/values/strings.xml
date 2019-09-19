@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Todo Kotlin Anko</string>
+    <string name="sample_todo_title">This is sample title</string>
+    <string name="sample_todo_date">19/9/2019</string>
+    <string name="sample_todo_desc">This is sample description for todo</string>
+    <string name="todo_title_hint">Title</string>
+    <string name="description">Description</string>
+    <string name="title_is_empty">Title is empty</string>
+</resources>
